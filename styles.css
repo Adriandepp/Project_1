@@ -29,3 +29,9 @@ p {
     
 }
 
+.button-link {
+    border-style: solid;
+    border-color:darkgray;
+    background-color:black;
+    border-width: 2px;
+}
