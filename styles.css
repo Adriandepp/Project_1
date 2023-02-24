@@ -46,7 +46,7 @@ p {
 .button-alert{
     border-style: solid;
     border-color:black;
-    background-color:royalblue
+    background-color:orange
     border-width: 2px;
     padding: 4px;
     border-radius: 10px;
@@ -71,5 +71,5 @@ p {
 }
 
 footer {
-    
+
 }
