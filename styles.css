@@ -31,7 +31,27 @@ p {
 
 .button-link {
     border-style: solid;
-    border-color:darkgray;
-    background-color:black;
+    border-color:black;
+    background-color:gainsboro;
     border-width: 2px;
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
+
+}   
+
+.button-alert{
+    border-style: solid;
+    border-color:black;
+    background-color:royalblue
+    border-width: 2px;
+    padding: 4px;
+    border-radius: 10px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
 }
