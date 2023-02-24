@@ -46,7 +46,7 @@ p {
 .button-alert{
     border-style: solid;
     border-color:black;
-    background-color:orange
+    background-color:orange;
     border-width: 2px;
     padding: 4px;
     border-radius: 10px;
@@ -63,7 +63,7 @@ p {
 }
 
 .main-content {
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 10px;
 
