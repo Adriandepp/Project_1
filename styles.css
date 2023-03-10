@@ -132,4 +132,14 @@ padding: 10px 0;
     p {
         color: #fff;
     }
+
+    img {
+        width: 100%
+
+    }
+
+    .article-image {
+        border: 1px solid #000;
+        width 300px
+    }
 }
