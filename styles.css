@@ -83,6 +83,12 @@ nav-links {
     margin: auto;
     width: 200px;
     text-align: center;
+    
+    font-size: 40px;
+    color:darksalmon;
+    font-style: italic;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px; 
 }
 
 .nav-link li {
