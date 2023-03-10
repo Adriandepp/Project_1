@@ -108,6 +108,15 @@ height: 100px;
 text-align: center;
 padding: 10px 0;
 }
+img {
+    width: 100%;
+
+}
+
+.article-image {
+    border: 1px solid #000;
+    width 300px
+}
 
 /* Mobile styles */
 
@@ -133,13 +142,5 @@ padding: 10px 0;
         color: #fff;
     }
 
-    img {
-        width: 100%
-
-    }
-
-    .article-image {
-        border: 1px solid #000;
-        width 300px
-    }
+  
 }
